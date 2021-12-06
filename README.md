@@ -1,1 +1,1 @@
-# javascript-step_by_step
+# Javascript step by step
