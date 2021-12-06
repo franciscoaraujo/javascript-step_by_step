@@ -70,7 +70,6 @@ console.log(n * 32)
 
 /** quando voce declara uma variavel fora de uma funcao, essa variavel é de escopo global, e comun declarar a variavel global como var */
 
-
 const number = 15
 
 function numberTest() {
